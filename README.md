@@ -1,4 +1,4 @@
-# AppsintheAppleStore
+# Apps in the Apple Store
 Apps Available in the Apple Store: Data Insights for App Developers
 Project Overview
 This project focuses on helping app developers make data-driven decisions about app development. By analyzing data from the Apple Store, we uncover trends and insights to inform decisions on:

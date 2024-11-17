@@ -22,6 +22,7 @@ Summarization: Highlighted key findings relevant to app developers.
 # Key Findings
 Recommendations for App Developers:
 Paid Apps: Paid apps consistently achieve higher user ratings, indicating that users perceive them as more valuable.
+
 Language Support: Apps supporting 10–30 languages tend to have better ratings, likely due to broader accessibility and user inclusiveness.
 # Tools and Technologies Used
 SQL: For data integration and querying.

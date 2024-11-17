@@ -3,10 +3,10 @@ Apps Available in the Apple Store: Data Insights for App Developers
 # Project Overview
 This project focuses on helping app developers make data-driven decisions about app development, by analyzing data from the Apple Store, we uncover trends and insights to inform decisions on:
 
-What type of app to build.
-Popular app categories.
-Optimal pricing strategies.
-How to maximize user ratings.
+What type of app to build,
+Popular app categories,
+Optimal pricing strategies,
+How to maximize user ratings
 # Problem Statement
 App developers need reliable data insights to:
 Identify popular app categories.
